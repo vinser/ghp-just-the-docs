@@ -1,5 +1,5 @@
 ---
-title: User Guide
+title: FLibGoLite
 layout: home
 ---
 
