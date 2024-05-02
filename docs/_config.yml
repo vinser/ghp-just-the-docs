@@ -1,8 +1,8 @@
 title: FLibGoLite
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: Multiplatform lightweight OPDS server with SQLite database book search index
 theme: just-the-docs
 
 url: https://vinser.github.io/ghp-just-the-docs
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  FLibGoLite Repository: https://vinser.github.io/ghp-just-the-docs
