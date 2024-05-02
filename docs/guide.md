@@ -1,8 +1,7 @@
 ---
 layout: default
 title: User Guide
-nav_order: 3
-has_children: true
+nav_order: 2
 ---
 
 __FLibGoLite__ program is written in GO as a single executable and doesn't require any prereqiusites.  

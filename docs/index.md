@@ -1,6 +1,7 @@
 ---
 title: FLibGoLite
 layout: home
+nav_order: 1
 ---
 
 __FLibGoLite__ is easy to use home library OPDS server 
