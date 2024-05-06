@@ -6,7 +6,7 @@ url: https://vinser.github.io/ghp-just-the-docs
 
 # Aux links for the upper right navigation
 aux_links:
-  FLibGoLite Repository: https://vinser.github.io/ghp-just-the-docs
+  FLibGoLite Repository: https://github.com/vinser/flibgolite
 
 # For copy button on code
 enable_copy_code_button: true
